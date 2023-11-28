@@ -23,8 +23,8 @@ export default function HomePage() {
           pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
           culpa qui officia deserunt mollit anim id est laborum.
         </p>
-        <div className="flex flex-row mt-10 mx-16">
-          <p className="pt-2 mx-6">Development stack |</p>
+        <div className="flex flex-col mt-10 mx-16 md:flex-row md:gap-4">
+          <p className="pt-2 mx-6">Development stack </p>
           <div className="flex flex-row gap-4">
             <img src={html} alt="" className=" w-10 h-10" />
             <img src={tailwind} alt="" className=" w-9 h-9 rounded-full" />
