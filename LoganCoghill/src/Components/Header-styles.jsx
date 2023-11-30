@@ -1,4 +1,4 @@
-export const tailHeaderXl = "xl:flex xl:flex-row bg-stone-900 xl:p-6 ";
+export const tailHeaderXl = "xl:flex xl:flex-row bg-stone-900 xl:p-6 border-b-2 ";
 
 export const tailH1Xl = "xl:w-1/4 uppercase italic font-bold ";
 

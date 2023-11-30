@@ -17,7 +17,7 @@ export const tailImgXl = "xl:w-[100px] xl:h-[100px] rounded-md";
 export const tailProgressXl = "w-44 h-44 p-10 font-bold mb-4";
 
 export const tailProgressContainerXl =
-  "xl:flex xl:flex-row xl:justify-center bg-stone-900 mx-5 rounded-md";
+  "xl:flex xl:flex-row xl:justify-center bg-stone-900 mx-5 rounded-md ";
 
 export const tailProfileXl = "w-96 h-96";
 

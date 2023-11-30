@@ -6,7 +6,7 @@ export default function Footer() {
       <div>
         <h5 className={tailHeadings}>E-mail</h5>
         <p>
-          <a href="">LoganKalib@proton.me</a>
+          LoganKalib@proton.me
         </p>
       </div>
       <div>
@@ -18,7 +18,7 @@ export default function Footer() {
       <div>
         <h5 className={tailHeadings}>Linkedin</h5>
         <p>
-          <a href="">Logan Coghill</a>
+          <a href="">Logan kalib</a>
         </p>
       </div>
       <div>
