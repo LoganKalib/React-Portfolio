@@ -5,18 +5,24 @@ export default function Footer() {
     <footer className={tailFooterXl}>
       <div>
         <h5 className={tailHeadings}>E-mail</h5>
-        <p>LoganKalib@proton.me</p>
+        <p>
+          <a href="">LoganKalib@proton.me</a>
+        </p>
       </div>
       <div>
         <h5 className={tailHeadings}>GitHub</h5>
-        <p>LoganKalib</p>
+        <p>
+          <a href="">LoganKalib</a>
+        </p>
       </div>
       <div>
         <h5 className={tailHeadings}>Linkedin</h5>
-        <p></p>
+        <p>
+          <a href="">Logan Coghill</a>
+        </p>
       </div>
       <div>
-        <p className="pt-3">@2023 | Logan Kalib Coghilll.</p>
+        <p className="pt-3 text-stone-800">@2023 | Logan Kalib Coghilll.</p>
       </div>
     </footer>
   );
