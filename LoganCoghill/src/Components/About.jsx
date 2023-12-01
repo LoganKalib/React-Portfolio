@@ -98,7 +98,7 @@ export default function About() {
           </p>
         </Section>
         <Section heading="CPUT" image={universityImg}>
-          <p>Course: Dimploma in Application Development</p>
+          <p>Course: Diploma in Application Development</p>
           <br />
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do

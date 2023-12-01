@@ -25,7 +25,7 @@ export default function Home() {
         <div className={textHolderXl}>
           <p className={p1Xl}>Hello,</p>
           <p className={p2Xl}>I'm Logan Coghill</p>
-          <p className={p3Xl}>Application development</p>
+          <p className={p3Xl}>Application development student</p>
           <div className="flex flex-row">
             <img src={html} alt="" className={iconXl} />
             <img src={tailwind} alt="" className={iconXl} />

@@ -1,8 +1,8 @@
 export const HomeMainXl = "h-[39rem] bg-stone-600 xl:mx-20";
 
-export const HolderXl = "flex flex-row pt-32";
+export const HolderXl = "flex flex-row pt-28";
 
-export const ContentHolderXl = "w-96 h-96 ml-64";
+export const ContentHolderXl = "w-96 h-96 ml-44";
 
 export const mainImgXl = "rounded-full w-96 h-96 drop-shadow-md";
 

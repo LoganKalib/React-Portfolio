@@ -6,7 +6,7 @@ export default function Footer() {
       <div>
         <h5 className={tailHeadings}>E-mail</h5>
         <p>
-          LoganKalib@proton.me
+          logancoghill18@gmail.com
         </p>
       </div>
       <div>
