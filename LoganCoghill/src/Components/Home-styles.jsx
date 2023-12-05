@@ -1,4 +1,4 @@
-export const HomeMainXl = "h-[39rem] bg-stone-600 xl:mx-20";
+export const HomeMainXl = "h-[39rem] bg-stone-600 mx-20";
 
 export const HolderXl = "flex flex-row pt-28";
 

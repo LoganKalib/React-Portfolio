@@ -10,7 +10,7 @@ import {
 
 export default function Header({ tabs, page, onClick }) {
   return (
-    <header className={tailHeaderXl} >
+    <header className={tailHeaderXl}>
       <h1 className={tailH1Xl}>Logan Kalib</h1>
       <menu className={tailMenuXl}>
         <ul className={tailUlXl}>
