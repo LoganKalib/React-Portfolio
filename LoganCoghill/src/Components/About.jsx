@@ -3,6 +3,8 @@ import {
   tailH2Xl,
   tailSectionXl,
   tailHolderXl,
+  tailImgContainerXl,
+  tailImgXl,
   tailH3Xl,
   tailProgressXl,
   tailProgressContainerXl,
@@ -26,6 +28,9 @@ function Section({ heading, children, image }) {
         <br />
         {children}
         <br />
+      </div>
+      <div className={tailImgContainerXl}>
+        <img src={image} alt={heading + " Logo"} className={tailImgXl} />
       </div>
     </section>
   );
