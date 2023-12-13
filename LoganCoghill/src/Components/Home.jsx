@@ -30,7 +30,7 @@ export default function Home() {
             <img src={html} alt="" className={iconXl} />
             <img src={tailwind} alt="" className={iconXl} />
             <img src={reactimg} alt="" className={iconXl} />
-            <img src={java} alt="" className={iconXl} />
+            <img src={java} alt="" className={`${iconXl} bg-zinc-800`} />
           </div>
         </div>
       </div>
