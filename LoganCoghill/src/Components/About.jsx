@@ -71,19 +71,19 @@ export default function About() {
         <div className={tailProgressContainerXl}>
           <div className={tailProgressXl}>
             <p className="text-center">HTML</p>
-            <CircularProgressbar value={30} text="30%" />
-          </div>
-          <div className={tailProgressXl}>
-            <p className="text-center">Tailwind</p>
-            <CircularProgressbar value={25} text="25%" />
-          </div>
-          <div className={tailProgressXl}>
-            <p className="text-center">React</p>
             <CircularProgressbar value={20} text="20%" />
           </div>
           <div className={tailProgressXl}>
+            <p className="text-center">Tailwind</p>
+            <CircularProgressbar value={15} text="15%" />
+          </div>
+          <div className={tailProgressXl}>
+            <p className="text-center">React</p>
+            <CircularProgressbar value={15} text="15%" />
+          </div>
+          <div className={tailProgressXl}>
             <p className="text-center">Java</p>
-            <CircularProgressbar value={30} text="30%" />
+            <CircularProgressbar value={25} text="25%" />
           </div>
         </div>
       </div>
